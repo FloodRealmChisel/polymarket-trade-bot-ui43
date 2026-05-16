@@ -1,4 +1,4 @@
-# 
+# Polymarket secure Trading Bot: smart-contract-integration & decentralized-trading is the best Polymarket trading-bot, featuring smart-contract-integration and
 
 
 
